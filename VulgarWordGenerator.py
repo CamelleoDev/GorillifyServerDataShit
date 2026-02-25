@@ -8,7 +8,8 @@ leet_map = {
     'O': ['O', '0'], 'o': ['o', '0'],
     'S': ['S', '5'], 's': ['s', '5'],
     'T': ['T', '7'], 't': ['t', '7'],
-    'G': ['G', '6'], 'g': ['g', '6']
+    'G': ['G', '6'], 'g': ['g', '6'],
+    'Z': ['Z', '5'], 'z': ['z', '5']
 }
 
 input_text = input("Enter text to generate leetspeak combinations: ")
